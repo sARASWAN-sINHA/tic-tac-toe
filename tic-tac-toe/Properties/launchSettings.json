@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "tic-tac-toe": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "sqlDebugging": false,
+      "nativeDebugging": false
+    }
+  }
+}
